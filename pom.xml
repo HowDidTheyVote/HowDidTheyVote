@@ -60,6 +60,10 @@
 		<url>https://github.com/HowDidTheyVote/HowDidTheyVote/issues</url>
 	</issueManagement>
 
+	<modules>
+		<module>data-tools</module>
+	</modules>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
