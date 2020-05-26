@@ -1,0 +1,18 @@
+# Jetbrains Suite
+.idea/
+*.iml
+*.ipr
+
+# IntelliJ
+out/
+
+# NetBeans
+nbactions.xml
+nb-configuration.xml
+/nbproject/
+
+# Misc
+target/
+.project
+.classpath
+.vscode
